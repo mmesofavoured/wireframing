@@ -41,3 +41,62 @@ Example: Placing a headline and call-to-action button above the fold draws immed
 
 Functionality refers to interactive components like buttons, forms, search bars, and dropdowns that define how users will engage with the interface.
 Example: A search bar in the header enables quick access to specific content, improving the overall user experience.
+
+
+Types of Wireframes
+
+Wireframes can vary in detail and visual fidelity depending on the stage of the design process. The two main types are low-fidelity and high-fidelity wireframes.
+
+🔹 Low-Fidelity Wireframes
+
+Low-fidelity wireframes are basic sketches or outlines that focus on layout and structure without detailed design elements.
+They are usually created early in the design process to explore ideas and gather feedback quickly.
+
+Characteristics:
+
+Simple boxes, lines, and placeholder text
+
+Minimal detail and no color
+
+Focus on layout and user flow
+
+When to Use:
+
+During the initial brainstorming and planning phase
+
+To test different layout ideas before committing to design details
+
+Example:
+A hand-drawn sketch showing where the header, content, and footer will go on a webpage.
+
+🔹 High-Fidelity Wireframes
+
+High-fidelity wireframes are detailed and polished representations that closely resemble the final design.
+They include visual elements like colors, fonts, images, and interactive components.
+
+Characteristics:
+
+Realistic content and typography
+
+Defined color schemes and icons
+
+May include clickable prototypes
+
+When to Use:
+
+In the later stages of the design process
+
+To demonstrate final design concepts or prepare for development
+
+Example:
+A digital wireframe created with tools like Figma or Adobe XD that shows actual images, text, and interactive elements.
+
+Type of Wireframe Used Here
+
+This project uses a 🔹 Low-Fidelity Wireframes to represent the design concept.
+
+Explanation:
+
+If this is a low-fidelity wireframe, it focuses on structure, layout, and user flow without detailed visuals.
+
+If this is a high-fidelity wireframe, it presents a near-final version with design elements, realistic content, and functionality.
